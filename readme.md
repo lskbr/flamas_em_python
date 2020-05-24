@@ -28,6 +28,7 @@ Algoritmo: desenho, flamas
 Acelerador: cython, python, numba
 
 Exemplo:
+
 Desenho de flamas, usando cython como acelerador:
 ```
 python desenha.py flamas cython 1024 1024
@@ -39,3 +40,7 @@ python desenha.py flamas cython 1024 1024
 ```
 
 Caso seu computador seja muito rápido ou muito lento, ajuste o tamanho da imagem.
+
+
+Artigo sobre a construção deste código:
+https://blog.nilo.pro.br/posts/2020-05-24-efeitos-graficos-com-python-cython-e-numba/
