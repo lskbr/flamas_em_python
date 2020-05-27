@@ -36,7 +36,7 @@ python desenha.py flamas cython 1024 1024
 
 Desenho simples, usando numba como acelerador:
 ```
-python desenha.py flamas cython 1024 1024
+python desenha.py flamas numba 1024 1024
 ```
 
 Caso seu computador seja muito rápido ou muito lento, ajuste o tamanho da imagem.
