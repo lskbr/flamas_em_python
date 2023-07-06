@@ -4,4 +4,4 @@ numba==0.49.1
 numpy==1.18.4
 Pillow==7.1.2
 pygame==1.9.6
-scipy==1.4.1
+scipy==1.10.0
